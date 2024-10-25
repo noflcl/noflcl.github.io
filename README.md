@@ -11,7 +11,7 @@
 <img style="width: 120px; height: 30px;" src="https://img.shields.io/badge/social_on-%236364FF?style=flat-square&logo=mastodon&logoColor=%23fff">
 </a>
 <a href="https://noflcl.codeberg.page">
-<img style="width: 120px; height: 30px;" src="https://img.shields.io/badge/blog_here-%236272A4?style=flat-square&logo=hugo&logoColor=%23fff">
+<img style="width: 120px; height: 30px;" src="https://img.shields.io/badge/blog_here-%236272A4?style=flat-square&logo=blogger&logoColor=%23fff">
 </a>
 </p>
 
