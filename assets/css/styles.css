@@ -193,9 +193,9 @@ header nav li:last-child{
   clip-path: circle(50%);
   width: 200px;
   height: 200px;
-  border: solid;
+  /* border: solid;
   border-width: 2px;
-  border-color: #BD93F9;
+  border-color: #BD93F9; */
 }
 
 /*
