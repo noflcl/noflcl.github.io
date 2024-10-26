@@ -433,6 +433,16 @@ footer p a{
 	margin-right: 15px;
 }
 
+@media (max-width: 900px){
+
+	.footer-img{
+		height: 30px;
+		width: 30px;
+		margin-right: 10px;
+	}
+
+}
+
 .footer-social{
 	justify-content: space-between;
 }
