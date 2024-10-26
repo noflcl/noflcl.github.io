@@ -441,6 +441,10 @@ footer p a{
 		margin-right: 10px;
 	}
 
+	.footer{
+		padding: 3px;
+	}
+
 }
 
 .footer-social{
