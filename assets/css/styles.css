@@ -364,6 +364,10 @@ header nav li:last-child {
 	.num2 {
 		background-image: none;
 	}
+
+	.deets {
+		background-color: unset;
+	}
 }
 
 /*
