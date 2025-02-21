@@ -17,6 +17,6 @@
 
 <p align="center">
 <a href="https://noflcl.github.io/">
-<img src="assets/img/hero.jpg">
+<img src="assets/img/hero.webp">
 </a>
 </p>
