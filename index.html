@@ -31,26 +31,25 @@
 	<section class="work">
 		<a id="anchor-work"></a>
 		<h3 class="title">What am I up to?</h3>
-		<p>Even though I primarily work on a local code forge, I am trying to get some stuff up on
+		<p>Even though I primarily work on a local code forge, I am trying to get code up on
 			<a style="text-decoration: overline;" href="https://codeberg.org/noflcl">Codeberg</a>
 			<a style="text-decoration: underline;">&</a>
 			<a style="text-decoration: overline;" href="https://github.com/noflcl">GitHub</a>
 		</p>
 		<hr>
 		<div class="gallery">
-			<!-- Test Gallery -->
+
 			<div class="gallery-large item num1">
 				<div class="banner">
 					<h3 class="title">Digital Paperwork Manager</h3>
 				</div>
 				<div class="deets">
-					<p>Allow employees to file critical safety paperwork for <u><a href="https://cfcsa.ca/cor.php">COR</a></u> safety compliance.
+					<p class="gallery-text">Allow employees to file critical safety paperwork for <u><a href="https://cfcsa.ca/cor.php">COR</a></u> safety compliance.
 						Store user data within Google Sheets for human readability, and for the power of Sheets query.
-						Recall filed paperwork that requires manual review and signatures. Format the Sheets data
-						back into a Form including employee digital signatures. Automatically print and notify the required parties on user submissions that require oversight.
+						Recall filed paperwork that requires manual review and signatures. Format Sheets data
+						back into a structured and printable form including employee signatures. Automatically print and notify the required parties on user submissions that require oversight.
 						I'm using Google Forms API, a bit of Google AppScript, server side JS, and some Linux magic on the back end to make all this happen.</p>
 				</div>
-
 			</div>
 
 			<div class="gallery-small item num2">
@@ -58,18 +57,34 @@
 					<h3 class="title">10G Fiber</h3>
 				</div>
 				<div class="deets">
-					<p>Building out 10G fiber at the rack, and two separate office spaces within the house. Using Intel X520-DA1 PCI-E nics for x86 boxes,
+					<p class="gallery-text">Building out 10G fiber at the rack, and two separate office spaces within the house. Using Intel X520-DA1 PCI-E nics for x86 boxes,
 						thunderbolt Sabrent TH-S3EA dock in the upstairs office, and a L2 managed TP-Link JetStream TL-SX3008F 8-Port sfp+ 10G switch.
-					    I don't really need my switch managed but price and performance are right👍️</p>
-
+						I don't really need my switch managed but price and performance are right👍️</p>
 				</div>
 			</div>
-			<!-- <div class="gallery-large item num3">
-				☶
+
+			<div class="gallery-small item num3">
+				<div class="banner">
+					<h3 class="title">Android Server</h3>
+				</div>
+				<div class="deets">
+					<p style="color: #717171;">Android Server Dashboard is a JS project that allows users to manage Android devices in a central place.
+						Users can view device information, install apps, remote display access, remote fastboot flashing, and even SSH access.
+					</p>
+				</div>
 			</div>
-			<div class="gallery-small item num4">
-				☱
-			</div> -->
+
+			<div class="gallery-large item num4">
+				<div class="banner">
+					<h3 class="title">Homelab</h3>
+				</div>
+				<div class="deets">
+					<p class="gallery-text">From diy racks with full HPE ProLiant, Dell PowerEdge, and cisco l2 switches. To artisanal purpose build compute that is planned, purchased, assembled, and deployed.
+						The lab has taken many forms over the past 10+ years, with countless software stacks, and technologies tested. The current 2025 lab is heavily NixOS with a focus on
+						reproducible software builds, container management, MicroVMs, and networking. You can peruse most of my Nix code that is managing all this on <a style="font-weight: bolder; text-decoration: underline; color: #bd93f9;" href="https://codeberg.org/noflcl/nix">Codeberg</a>
+					</p>
+				</div>
+			</div>
 
 		</div>
 	</section>
