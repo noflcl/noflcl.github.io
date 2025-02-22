@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/opensource-enthusiast-%2350FA7B?style=flat-square&labelColor=%2344475A">
-<img src="https://img.shields.io/badge/vegetarian-animal_lover-%23FFB86C?style=flat-square&labelColor=%2344475A">
+<img src="https://img.shields.io/badge/animal-lover-%23FFB86C?style=flat-square&labelColor=%2344475A">
 <img src="https://img.shields.io/badge/diehard-skater-%23FF5555?style=flat-square&labelColor=%2344475A">
 <img src="https://img.shields.io/badge/Linux_everything-everywhere_always-%23BD93F9?style=flat-square&labelColor=%2344475A">
 <br>
